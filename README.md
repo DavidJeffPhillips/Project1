@@ -1,2 +1,3 @@
 # Project1
-North Western Data Science Project 1
+Northwestern Data Science Project 1
+Assessing MLB Salaries and Players' Performance
